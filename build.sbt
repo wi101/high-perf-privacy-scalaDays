@@ -1,7 +1,7 @@
 name := "high-perf"
 
 
-organization := "com.github.scala.io.talk"
+organization := "com.github.scala.days.talk"
 
 scalaVersion := "2.11.12"
 

@@ -1,11 +1,12 @@
-package com.github.scala.io.talk
+package com.github.talk
+package privacy
 
 import java.io.ByteArrayOutputStream
 import java.security.MessageDigest
 import java.util.Base64
 
-import com.github.scala.io.api._
-import com.github.scala.io.talk.privacy._
+import com.github.talk.api._
+import com.github.talk.privacy._
 import javax.crypto.Cipher
 import javax.crypto.spec.{IvParameterSpec, SecretKeySpec}
 import matryoshka.data.Fix

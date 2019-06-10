@@ -1,4 +1,4 @@
-# high-perf-privacy-scalaIO2018
+# high-perf-privacy-scalaDays
 
 [![Build Status](https://travis-ci.org/ogirardot/high-perf-privacy-scalaIO2018.svg?branch=master)](https://travis-ci.org/ogirardot/high-perf-privacy-scalaIO2018)
 
@@ -12,5 +12,5 @@ You have three engines here :
 * codegen engine: creates an Apache Spark expression to do that work leveraging the Unsafe/Tungsten data format of Apache Spark SQL.
 
 ## Where are the slides ? 
-Here you go : https://speakerdeck.com/ogirardot/high-performance-privacy-by-design-using-matryoshka-and-spark
+Here you go : https://scaladays.org/schedule/high-performance-privacy-by-design-using-matryoshka--spark
 Enjoy !

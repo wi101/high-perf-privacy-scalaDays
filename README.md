@@ -4,7 +4,7 @@
 
 ## What am I looking at ? 
 
-It's a fully fonctionnal implementation of a Privacy Framework we designed as an illustration for the Scala.IO 2018 talk : "High performance Privacy By Design using Matryoshka and Spark" we gave at Lyon.
+It's a fully fonctionnal implementation of a Privacy Framework we designed as an illustration for the Scala Days 2019 talk : "High performance Privacy By Design using Matryoshka and Spark" we gave at Lausanne.
 
 You have three engines here : 
 * matryoshka engine: zipping data and schema together and matching semantic tags to cypher data;
@@ -12,5 +12,7 @@ You have three engines here :
 * codegen engine: creates an Apache Spark expression to do that work leveraging the Unsafe/Tungsten data format of Apache Spark SQL.
 
 ## Where are the slides ? 
-Here you go : https://scaladays.org/schedule/high-performance-privacy-by-design-using-matryoshka--spark
+Here you go : 
+Attend our talk: https://scaladays.org/schedule/high-performance-privacy-by-design-using-matryoshka--spark
+The slides will be available soon!
 Enjoy !
